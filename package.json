@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "find-cache-dir": "^4.0.0",
-    "schema-utils": "^4.0.0"
+    "schema-utils": "^4.2.0"
   },
   "peerDependencies": {
     "@babel/core": "^7.12.0",
